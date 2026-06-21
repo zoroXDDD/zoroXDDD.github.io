@@ -1,5 +1,5 @@
 ---
-title: "Authors Taxonomy Listing Example"
+title: "作者列表"
 ---
 
-A quick example of how to start using author taxonomies in your articles.
+關於作者

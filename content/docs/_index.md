@@ -1,6 +1,6 @@
 ---
-title: "Documentation"
-description: "Learn how to use Blowfish and its features."
+title: "筆記"
+description: "紀錄學習＆生活"
 
 cascade:
   showDate: false
@@ -9,7 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-Simple, yet powerful. Learn how to use Blowfish and its features.
+筆記人生，人生筆記
 {{< /lead >}}
 
 

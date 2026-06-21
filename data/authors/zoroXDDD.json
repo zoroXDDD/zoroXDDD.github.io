@@ -1,0 +1,8 @@
+{
+  "name": "Zoro",
+  "image": "img/zoro_avatar.png",
+  "bio": "Developer",
+  "social": [
+    { "github": "https://github.com/zoroXDDD" }
+  ]
+}
